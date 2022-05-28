@@ -1,0 +1,55 @@
+.transparent {
+  opacity: 0.5;
+}
+.add-Img {
+  width: 100%;
+  object-fit: cover;
+  height: 350px;
+}
+.noe {
+  width: 100%;
+  height: 40px;
+  margin-left: 5px;
+  box-shadow: 1px 1px 3px 0px grey !important;
+  border-radius: 500px;
+  padding: 7px;
+  /* margin-top: 20px; */
+  bottom: 8px;
+  position: relative;
+}
+.selectboxblue {
+  /* border: solid 3px lightgrey !important; */
+  outline: none !important;
+  border-radius: 500px !important;
+  margin: 0 !important;
+  position: relative;
+  bottom: 7px;
+  height: 32px;
+}
+/* .selectboxblue > .MuiSelect-outlined:hover {
+   border: solid 3px #3897f1 !important; 
+  border: none !important;
+  outline: none !important;
+  border-radius: 500px !important;
+  color: #3897f1 !important;
+  border: none !important;
+} */
+.MuiSelect-icon {
+  color: #3897f1 !important;
+  font-size: 44px !important;
+  position: relative !important;
+  margin-bottom: 8px;
+}
+.paste-link {
+  left: 30%;
+  top: -4px;
+}
+
+.MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+  border: solid 2px #3897f1;
+}
+
+.MuiSelect-outlined.MuiSelect-outlined:hover
+  .MuiOutlinedInput-inputMarginDense {
+  color: #b9b9b9;
+}

@@ -1,0 +1,88 @@
+.user-bar {
+  height: 55px;
+  color: black;
+  padding: 0 8px;
+  font-size: 24px;
+  position: relative;
+  z-index: 1;
+  margin-top: 3vh;
+  box-shadow: 10px 10px 16px -13px rgba(0, 0, 0, 0.34);
+}
+
+.user-bar div {
+  float: left;
+  transform: translateY(-50%);
+  position: relative;
+  top: 50%;
+}
+
+.list-data {
+  height: 50vh;
+  overflow: scroll;
+}
+
+.user-bar .avatar {
+  margin: 0 0 0 5px;
+  width: 36px;
+  height: 36px;
+}
+
+.user-bar .avatar img {
+  border-radius: 50%;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1);
+  display: block;
+  width: 100%;
+}
+
+.user-bar .name {
+  font-size: 17px;
+  font-weight: 600;
+  margin-left: 2vh;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.user-bar .status {
+  display: block;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.user-invited {
+  color: green;
+  font-size: 10px;
+}
+.user-accept {
+  color: #3897f1;
+  font-size: 10px;
+}
+.user-decline {
+  color: red;
+  font-size: 10px;
+}
+.user-maybe {
+  color: #ffa700;
+  font-size: 10px;
+}
+.delete-modal {
+  width: 30vw;
+  position: fixed;
+  left: 35vw;
+}
+
+@media (max-width: 992px) {
+  .manage_guest {
+    display: none;
+  }
+}
+
+.nav-tabs .nav-link {
+  text-decoration: none;
+}
+
+@media (max-width: 340px) {
+  .nav-tabs .nav-link {
+    font-size: 13px;
+  }
+}

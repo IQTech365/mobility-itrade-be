@@ -1,0 +1,56 @@
+.ev-contaioner {
+  width: 100vw !important;
+  height: 93vh !important;
+}
+.infocard {
+  position: relative;
+  top: 50vh;
+  width: 70vw;
+  margin-left: 15vw;
+  background: white;
+  box-shadow: 0px 2px 7px 3px grey;
+  height: auto;
+  border-radius: 12px;
+  padding: 5px;
+}
+.dots-container {
+  height: 20px;
+}
+.messageholder {
+  width: 90%;
+  height: 55px;
+  box-shadow: 1px 1px 6px 5px grey;
+  margin-left: 5%;
+  position: relative;
+  bottom: 30px;
+  background: white;
+  border-radius: 500px;
+  padding-top: 8px;
+  padding-left: 5px;
+}
+.next-button {
+  width: 50px;
+  height: 50px;
+  color: white;
+  background: #3897f1 !important;
+  position: fixed;
+  top: 50vh;
+  left: 96vw;
+}
+.prev-button {
+  width: 50px;
+  height: 50px;
+  color: white;
+  background: #3897f1 !important;
+  position: fixed;
+  top: 50vh;
+  left: 1vw;
+}
+
+@media (min-width: 1000px){
+  .contain-main{
+    max-width: 70%;
+    margin : auto;
+  }
+}
+

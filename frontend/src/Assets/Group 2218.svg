@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="321" height="318" viewBox="0 0 321 318">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.139" y1="0.199" x2="0.908" y2="0.798" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="10.461" cy="10.461" r="10.461" fill="rgba(129,103,152,0.1)" stroke="#816798" stroke-width="1.5"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2218" data-name="Group 2218" transform="translate(-92 -1049)">
+    <text id="Destination_Event" data-name="Destination Event" transform="translate(255 1315)" fill="#1f1f1f" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-54.065" y="0">Destination Event</tspan></text>
+    <g id="Group_112" data-name="Group 112" transform="translate(182 1139)">
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="71" cy="69.5" rx="71" ry="69.5" transform="translate(3 7)" fill="rgba(0,0,0,0.1)"/>
+      <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="70.5" cy="69" rx="70.5" ry="69" fill="#fff"/>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="71.5" cy="70" rx="71.5" ry="70" transform="translate(3 3)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_2288" data-name="Group 2288" transform="translate(-330.883 -1332.24)">
+      <path id="check" d="M4.51,11.982.194,7.666a.664.664,0,0,1,0-.939l.939-.939a.664.664,0,0,1,.939,0L4.98,8.7l6.227-6.227a.664.664,0,0,1,.939,0l.939.939a.664.664,0,0,1,0,.939L5.449,11.982a.664.664,0,0,1-.939,0Z" transform="translate(580.245 2533.126)" fill="rgba(129,103,152,0.1)" stroke="#816798" stroke-width="1.5"/>
+      <g id="Group_2287" data-name="Group 2287" transform="translate(569.066 2522.533)">
+        <g id="noun_Location_2944976" transform="translate(0 0)">
+          <path id="Path_112" data-name="Path 112" d="M35.758,5A17.818,17.818,0,0,0,20.441,31.922h0q.433.723.928,1.4l14.389,21.7L50.525,32.789l.028-.044.039-.056h0A17.818,17.818,0,0,0,35.758,5Zm0,31.123A13.311,13.311,0,1,1,49.069,22.818,13.311,13.311,0,0,1,35.758,36.123Z" transform="translate(-17.94 -5)" fill="rgba(129,103,152,0.1)" stroke="#816798" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

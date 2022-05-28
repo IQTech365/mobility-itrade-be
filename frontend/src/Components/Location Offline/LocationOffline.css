@@ -1,0 +1,13 @@
+.card-body{
+    line-height: 1.38;
+    color:black;
+    font-size: 15px;
+}
+
+.direction-btn{
+    width:250px;
+    padding:12px;
+    border-radius: 50px;
+   margin:auto;
+}
+

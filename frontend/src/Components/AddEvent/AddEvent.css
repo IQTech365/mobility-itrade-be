@@ -1,0 +1,210 @@
+.p-5px {
+  padding: 5px;
+}
+.l-blue-t > .MuiStepLabel-iconContainer > .MuiStepIcon-active {
+  color: #3897f1 !important;
+}
+.l-blue-t > .MuiStepLabel-iconContainer > .MuiStepIcon-completed {
+  color: #3897f1 !important;
+}
+.box {
+  width: 45px;
+  border: solid #3897f1;
+  color: #3897f1;
+  text-align: center;
+  margin: 10px;
+  margin-top: 2px;
+  font-weight: bold;
+  /* margin: 10px; */
+}
+.event-buttons {
+  background-color: #fff !important;
+  color: #3897f1 !important;
+  width: 100% !important;
+  box-shadow: none !important;
+  border: solid #3897f1 1px !important;
+  border-radius: 5px !important;
+  font-weight: bold !important;
+  overflow: hidden;
+}
+.current {
+  background-color: #3897f1 !important;
+  color: #fff !important;
+}
+.eventslider {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+/* .save-events {
+  width: 150px;
+  padding: 12px;
+  margin-bottom: 5px;
+  background: #3897f1;
+  color: white;
+  border: none;
+  border-radius: 500px;
+  margin-bottom: 10px;
+  float:right;
+} */
+.disabled {
+  display: none;
+}
+.save-event {
+  width: 150px;
+  padding: 12px;
+  margin-bottom: 5px;
+  background: #3897f1 !important;
+  color: white !important;
+  border: none;
+  border-radius: 500px !important;
+  float: right;
+}
+.schedule-icon {
+  margin-top: 5%;
+  width: 70px;
+}
+.add-schedule {
+  background-color: white;
+  /* color: #3897f1; */
+  width: 70px;
+  /* box-shadow: 5px 0px 15px 3px rgb(214 214 214); */
+  border: none;
+  padding: 10px;
+  border-radius: 30px;
+  width: 100%;
+  margin-top: 27px;
+  font-weight: bold;
+}
+.event-Names {
+  width: 100% !important;
+}
+
+.access-logo {
+  width: 20%;
+  margin-left: 40%;
+  height: 30vh;
+}
+.back {
+  width: 95%;
+  color: #fff;
+  background-color: #3897f1;
+  border: none;
+  border-radius: 500px;
+  padding: 10px;
+  margin: 5px;
+}
+.next {
+  width: 96%;
+  color: #3897f1;
+  background-color: #fff;
+  border: solid 1px #3897f1 !important;
+  border-radius: 500px !important;
+  margin: 2%;
+}
+.upload-excel {
+  display: none !important;
+}
+
+.custom-file-upload {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+  width: 98%;
+  background-color: #3897f1;
+  color: #fff;
+  border-radius: 500px !important;
+  text-align: center;
+  padding: 10px;
+  font-size: 16px;
+}
+.viewlistbutton {
+  border: 1px solid #ccc;
+  display: inline-block;
+  margin-bottom: 5px;
+  cursor: pointer;
+  width: 100%;
+  color: #3897f1;
+  background-color: #fff;
+  border-radius: 500px;
+  text-align: center;
+  font-size: 16px;
+  border: solid 1px #3897f1;
+}
+.excel-file-upload {
+  border: 1px solid #ccc;
+  display: inline-block;
+  margin-bottom: 5px;
+  cursor: pointer;
+  width: 100%;
+  background-color: #3897f1;
+  color: #fff;
+  border-radius: 500px !important;
+  text-align: center;
+  padding: 0;
+  height: 40px;
+  padding-top: 5px;
+  font-size: 16px;
+}
+.dark-file-upload {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 12px 12px;
+  cursor: pointer;
+  width: 100%;
+  background-color: #0d273f;
+  color: #fff;
+  border-radius: 500px;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+.uploaded-file {
+  width: 100%;
+  width: 100%;
+  height: 300px !important;
+  object-fit: contain;
+}
+
+.down-float {
+  position: relative;
+  top: 125px;
+  left: 150px;
+}
+.clipboard {
+  background: lightgrey;
+  color: #3897f1;
+  border-radius: 59px;
+  padding: 1px;
+  word-break: break-all;
+  font-weight: bolder;
+}
+.link {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.clipboard:active {
+  background: grey !important;
+}
+@media only screen and (max-width: 600px) {
+  .access-logo {
+    width: 50% !important;
+    margin-left: 25% !important;
+  }
+}
+
+.listitems_box {
+  overflow: auto !important;
+  height: 40vh;
+}
+
+@media only screen and (max-width: 489px) {
+  .addcontacts_btn {
+    width: auto !important;
+  }
+  .listitems_box {
+    overflow: auto !important;
+    height: 55vh;
+  }
+}

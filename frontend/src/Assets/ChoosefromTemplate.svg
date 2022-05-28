@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="174" height="233" viewBox="0 0 174 233">
+  <defs>
+    <filter id="Rectangle_1104" x="0" y="0" width="174" height="233" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3670" data-name="Group 3670" transform="translate(-179 -317)">
+    <g transform="matrix(1, 0, 0, 1, 179, 317)" filter="url(#Rectangle_1104)">
+      <rect id="Rectangle_1104-2" data-name="Rectangle 1104" width="150" height="209" transform="translate(12 12)" fill="#fff"/>
+    </g>
+    <g id="Group_3669" data-name="Group 3669">
+      <text id="Choose_from_Template" data-name="Choose from 
+Template" transform="translate(266 475)" fill="#1f1f1f" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-41.72" y="0">Choose from </tspan><tspan x="-28.079" y="20">Template</tspan></text>
+      <g id="noun_template_2596182" transform="translate(236.392 363.448)">
+        <path id="Path_4958" data-name="Path 4958" d="M7,2V63.1H54.216V17.276H38.94V2ZM40.329,2V15.887H54.216ZM28.492,21.442a2.618,2.618,0,0,1,2.645,2.645v1.587h4.231a2.126,2.126,0,0,1,2.118,2.118v4.231h1.587a2.645,2.645,0,1,1,0,5.289H37.486v4.234a2.124,2.124,0,0,1-2.118,2.116h-4.02V42.074a2.856,2.856,0,0,0-5.712,0v1.587H21.614A2.121,2.121,0,0,1,19.5,41.546V37.523h1.587a2.856,2.856,0,0,0,0-5.712H19.5v-4.02a2.124,2.124,0,0,1,2.116-2.118h4.234V24.086A2.618,2.618,0,0,1,28.492,21.442Z" transform="translate(0 0)" fill="rgba(88,154,201,0.1)" stroke="#3897f1" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

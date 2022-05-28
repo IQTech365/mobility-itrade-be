@@ -1,0 +1,12 @@
+//Notification sheet.txt
+1.You have been invited by 'this person' to 'invitaion name'
+2.EventInfo ->
+Like => Someone has Liked 'Event-name'
+Comment => to all expcept the sender
+/// When Event is udated new notificaitons
+Chat => red dot
+Feed => comment , new post , like => all (Admin +)
+Album => Admin added pictures/Videos
+//Album
+
+

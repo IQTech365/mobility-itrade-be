@@ -1,0 +1,77 @@
+.rsvp-buttons {
+  position: relative !important;
+  bottom: 10vh;
+  z-index: 999999999999;
+}
+.carousel {
+  width: 70%;
+  height: 78vh;
+  margin: auto;
+  object-fit: fill;
+}
+.btn-weddingmain {
+  border-radius: 50px;
+  padding: 14px 60px;
+  background-color: #8a878785;
+  color: #fff;
+  outline: none;
+  box-shadow: none;
+  border: none;
+  -webkit-backdrop-filter: blur(2.5px);
+  backdrop-filter: blur(2.5px);
+  margin: 5px;
+}
+.carousel {
+  width: 70%;
+  height: 90vh;
+  margin: auto;
+  object-fit: fill;
+}
+.fullimage {
+  width: 100%;
+  object-fit: contain;
+  height: 75vh;
+}
+.carousel-inner {
+  height: 92vh !important;
+  overflow: scroll;
+}
+.carousel-indicators {
+  /* border-radius: 100% !important;
+  height: 10px !important;
+  padding: 0 !important;
+  width: 10px !important; */
+}
+.carousel-indicators .active {
+  padding: 0 !important;
+  height: 5px !important;
+  color: grey;
+}
+@media (max-width: 1199px) {
+  .carousel {
+    width: 100%;
+  }
+  .btn-weddingmain {
+    margin: 0;
+    padding: 10px 17px;
+  }
+}
+
+@media (max-width: 991px) {
+  .carousel {
+    width: 100%;
+  }
+  .btn-weddingmain {
+    margin: 0;
+    padding: 5px 5px;
+    margin: 0 10px 5px 0;
+  }
+}
+
+@media (max-width: 812px) {
+  .btn-weddingmain {
+    padding: 10px 10px;
+    margin: 1vw;
+    width: 30vw;
+  }
+}

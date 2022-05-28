@@ -1,0 +1,23 @@
+.arrow-iconcs {
+  color: black;
+  float: right;
+}
+
+.linkto-rows {
+  color: #404040;
+  font-size: 15px;
+  text-decoration: none;
+  font-weight: 500;
+}
+.sidebar-rows {
+  box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.4);
+  margin: 20px;
+  display: flex;
+  align-items: center;
+}
+.sidebar_img {
+  width: 100%;
+}
+.sidebar_links {
+  margin: auto;
+}

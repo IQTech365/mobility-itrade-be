@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="321" height="318" viewBox="0 0 321 318">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.139" y1="0.199" x2="0.908" y2="0.798" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2215" data-name="Group 2215" transform="translate(9 -924)">
+    <text id="Private_Secure" data-name="Private / Secure" transform="translate(154 1191)" fill="#1f1f1f" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-48.228" y="0">Private / Secure</tspan></text>
+    <g id="Group_112" data-name="Group 112" transform="translate(81 1014)">
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="71" cy="69.5" rx="71" ry="69.5" transform="translate(3 7)" fill="rgba(0,0,0,0.1)"/>
+      <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="70.5" cy="69" rx="70.5" ry="69" fill="#fff"/>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="71.5" cy="70" rx="71.5" ry="70" transform="translate(3 3)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="noun_secure_2838532" transform="translate(120.984 1058.343)">
+      <g id="Group_2283" data-name="Group 2283" transform="translate(16.609 10.45)">
+        <path id="Path_847" data-name="Path 847" d="M53.26,21.65c0-1.156-.055-2.312-.055-3.357a1.538,1.538,0,0,0-1.541-1.541c-6.495,0-11.5-1.871-15.631-5.889a1.6,1.6,0,0,0-2.147,0c-4.128,4.018-9.081,5.889-15.631,5.889a1.538,1.538,0,0,0-1.541,1.541c0,1.046,0,2.2-.055,3.357-.22,10.953-.5,25.923,17.723,32.253a1.607,1.607,0,0,0,.5.11.818.818,0,0,0,.5-.11C53.7,47.574,53.425,32.6,53.26,21.65Zm-10.9,7.43L33.941,37.5a1.537,1.537,0,0,1-1.1.44,1.748,1.748,0,0,1-1.1-.44l-4.183-4.183A1.518,1.518,0,0,1,29.7,31.172l3.137,3.137,7.375-7.375a1.518,1.518,0,0,1,2.147,2.147Z" transform="translate(-16.609 -10.45)" fill="rgba(7,177,0,0.1)" stroke="#07b100" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

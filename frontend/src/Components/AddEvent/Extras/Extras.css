@@ -1,0 +1,80 @@
+.view {
+  height: 30vh;
+  overflow: scroll;
+}
+.uploadhere {
+  height: 30vh;
+}
+.delete-img {
+  position: relative;
+  left: 80%;
+  top: 15%;
+  z-index: 2;
+}
+.preview {
+  height: 70px;
+  object-fit: cover;
+}
+.add-album {
+  background-color: white;
+  color: #3897f1;
+  width: 25%;
+  box-shadow: 5px 0px 15px 3px rgb(214 214 214);
+  border: none;
+  padding: 10px;
+  border-radius: 30px;
+  position: absolute;
+  bottom: 2%;
+  left: 37.5%;
+}
+.story-image {
+  height: 100%;
+  object-fit: cover;
+}
+.schedule-l-icon {
+  font-size: 40px;
+  color: #3897f1;
+  position: relative;
+
+  bottom: 40%;
+  border: solid;
+  border-radius: 100%;
+}
+.ScheduleName {
+  font-size: 20px;
+  font-weight: bold;
+}
+.dtime {
+  font-size: 10px;
+}
+.padding-left-7 {
+  padding-left: 7% !important;
+}
+.schedule-details {
+  min-height: 200px;
+  height: auto;
+}
+
+.save-Schedule {
+  width: 150px;
+  padding: 12px;
+  /* margin-bottom: 5px; */
+  margin: auto;
+  background: #3897f1;
+  color: white;
+  border: none;
+  border-radius: 500px;
+  /* float: right; */
+  position: absolute;
+
+  border-radius: 0;
+}
+.description {
+  word-wrap: break-word !important;
+  padding: 5px;
+}
+
+.card-shadow {
+  border-radius: 20px;
+  padding: 10px;
+}

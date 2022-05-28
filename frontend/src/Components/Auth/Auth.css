@@ -1,0 +1,62 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Lora:wght@600&display=swap');
+ */
+
+.Auth-image {
+  width: 80%;
+  margin-left: 10%;
+}
+.Otp-block {
+  text-align: center !important;
+  width: 100% !important;
+  height: 50px !important;
+  background: #f5f3f3 !important;
+  border: solid 1px rgb(189, 189, 189) !important;
+  border-radius: 30px !important;
+}
+.OTP {
+  display: flex !important;
+  align-items: center !important;
+  width: 15% !important;
+  margin: 0.5% !important;
+}
+.error {
+  font-size: 10px;
+  color: red;
+}
+.resend-otp {
+  width: 100%;
+  background-color: white;
+  color: #3897f1;
+  font-size: 14px;
+  height: 50px;
+  margin-top: 1%;
+  border: solid 1px #3897f1;
+  border-radius: 40px;
+}
+.links {
+  font-size: 12px;
+  text-align: center;
+  text-decoration: underline;
+}
+.error-box {
+  border: solid red 2px;
+}
+.hide {
+  display: none !important;
+}
+.show {
+  display: block !important;
+}
+
+/* .modal-title{
+  font-family: 'Lora', serif;;
+}
+ */
+.modal-title-description{
+  color:#727272;
+  font-size: 13px !important;
+  margin-top: -3px  !important; 
+}
+.phno-text{
+  color:#727272;
+}

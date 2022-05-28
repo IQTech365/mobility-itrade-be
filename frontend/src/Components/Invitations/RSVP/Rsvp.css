@@ -1,0 +1,100 @@
+.RSVP-card {
+  width: 100vw;
+  height: 75vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 1vh;
+}
+.back-img {
+  position: relative;
+  top: 4px;
+}
+.eventheader {
+  flex-grow: 1;
+  width: 100vw;
+}
+.back-button {
+  width: 50vw;
+  justify-content: left;
+}
+.skip {
+  width: 50vw;
+  justify-content: right;
+}
+.eventbuttons {
+  position: relative;
+  top: 70vh;
+  width: 60vw;
+  margin-left: 20vw;
+}
+.dotscontainer {
+  position: relative;
+  top: 75vh;
+  width: 25%;
+  justify-content: center;
+  left: 47%;
+}
+.Skip-button {
+  float: right;
+  margin-top: 5px;
+  margin-right: 20px;
+  padding: 8px 20px;
+  border-radius: 25px;
+  color: white;
+  background: black;
+}
+.rsvp-options {
+  width: 100px;
+  padding: 8px;
+  border-radius: 15px;
+  border: solid white 1px;
+  box-shadow: 4px 3px 7px 2px grey;
+  background: #4b8ae8;
+}
+.dot {
+  width: 10px;
+  height: 10px;
+  background: grey;
+  border-radius: 100%;
+  margin: 5px;
+  float: left;
+}
+.indicator-container {
+  position: relative;
+  height: 20px;
+  top: 78vh;
+}
+.RSVP-AVATAR {
+  position: relative;
+  z-index: 20;
+  top: 5px;
+  right: 20px;
+}
+.rsvp-img {
+  width: 100%;
+  height: 500px;
+  object-fit: contain;
+  position: relative;
+  z-index: 0;
+  bottom: 75px;
+  background: rgba(0, 0, 0, 0.3);
+  -webkit-filter: brightness(70%);
+}
+.RSVP-avatar {
+  position: relative;
+  left: 30px;
+}
+.rsvpoptions {
+  position: relative;
+  bottom: 130px;
+  left: 1vw;
+}
+.rsvpimage {
+  width: 100%;
+  object-fit: cover;
+  height: 90vh;
+}
+.btn-weddingmain {
+  font-size: 14px !important;
+}

@@ -1,0 +1,440 @@
+.our_features {
+  z-index: 2;
+  background: #f8f8f8;
+  position: relative;
+}
+.our_features .alt_btn {
+  top: -35px;
+  width: 67px;
+  height: 67px;
+  padding: 10px;
+  border: none;
+  border-radius: 50%;
+  position: absolute;
+  box-shadow: 0px 0px 26px #00000042;
+  background: #ffffff 0% 0% no-repeat padding-box;
+}
+.our_features .alt_btn > img {
+  width: 22px;
+  margin: auto;
+}
+.our_features .alt_btn .alt_count {
+  position: absolute;
+  top: 15px;
+  right: 13px;
+  font-size: 11px;
+}
+.our_features .alt_like.alt_btn {
+  left: 5%;
+}
+.our_features .alt_share.alt_btn {
+  right: 5%;
+}
+
+.our_features h2 {
+  font: normal normal normal 40px/75px Scotch;
+}
+.our_features .feature_item > p {
+  text-align: center;
+  font: normal normal 600 19px/26px "Nanum Gothic", sans-serif;
+}
+.our_features .feature_item > img {
+  width: 197px;
+  height: 197px;
+  margin: auto;
+  display: table;
+}
+.feature_btn {
+  width: 100%;
+  height: 50px;
+  border: none;
+  color: #ffffff;
+  margin-top: 2em;
+  text-align: center;
+  border-radius: 25px;
+  background: #3897f1 0% 0% no-repeat padding-box;
+  font: normal normal bold 17px "Nanum Gothic", sans-serif;
+}
+.personal_area h2 {
+  font: normal normal normal 40px/75px Scotch;
+}
+.personal_area .owl-dots {
+  position: absolute;
+  right: 45%;
+  bottom: -10px;
+}
+
+.additional_part {
+  z-index: 2;
+  background: #f8f8f8;
+  position: relative;
+}
+.additional_part h2 {
+  font: normal normal normal 40px/75px Scotch;
+}
+.additional_part .addition_item > p {
+  text-align: center;
+  font: normal normal 500 15px/26px "Nanum Gothic", sans-serif;
+}
+.additional_part .addition_item > img {
+  width: 125px;
+  height: 125px;
+  margin: auto;
+  display: table;
+}
+.additional_part .addition_btn {
+  width: 100%;
+  height: 50px;
+  border: none;
+  color: #ffffff;
+  margin-top: 2em;
+  text-align: center;
+  border-radius: 25px;
+  background: #3897f1 0% 0% no-repeat padding-box;
+  font: normal normal bold 17px "Nanum Gothic", sans-serif;
+}
+.Additionals_img img.img-fluid {
+  max-width: 100%;
+  height: 750px;
+  margin: auto;
+  display: table;
+}
+
+.text-color {
+  color: #1f1f1f;
+}
+
+.contact_field {
+  background: #eaeaea4d;
+  border: 2px solid #eaeaea;
+}
+.contact_us h2 {
+  font: normal normal normal 40px/75px Scotch;
+}
+.contact_us .form .btn {
+  font: normal normal bold 17px/28px "Nanum Gothic", sans-serif;
+}
+
+.testimonials h2 {
+  font: normal normal normal 40px/75px Scotch;
+}
+.testimonials .item img {
+  width: 85px;
+  height: 85px;
+}
+
+.testimoni_border_box {
+  left: 0;
+  bottom: 0;
+  height: 7px;
+  width: 100%;
+  position: absolute;
+  background: transparent
+    linear-gradient(
+      90deg,
+      #0057e7 0%,
+      var(--unnamed-color-ffa700) 35%,
+      var(--unnamed-color-d62d20) 67%,
+      var(--unnamed-color-008744) 100%
+    )
+    0% 0% no-repeat padding-box;
+  background: transparent
+    linear-gradient(90deg, #0057e7 0%, #ffa700 35%, #d62d20 67%, #008744 100%)
+    0% 0% no-repeat padding-box;
+  border-radius: 0px 0px 6px 6px;
+}
+#customers-testimonials .shadow-effect p {
+  font-family: inherit;
+  font-size: 17px;
+  line-height: 1.5;
+  margin: 0 0 17px 0;
+  font-weight: 300;
+}
+.testimonial-name {
+  margin: -17px auto 0;
+  display: table;
+  width: auto;
+  background: #3190e7;
+  padding: 9px 35px;
+  border-radius: 12px;
+  text-align: center;
+  color: #fff;
+  box-shadow: 0 9px 18px rgba(0, 0, 0, 0.12), 0 5px 7px rgba(0, 0, 0, 0.05);
+}
+#customers-testimonials .item {
+  text-align: center;
+  padding: 50px 0 50px;
+  margin-bottom: 0px;
+  margin: 0 -20px;
+  -webkit-transform: scale3d(0.8, 0.8, 1);
+  transform: scale3d(0.8, 0.8, 1);
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.item {
+  width: 100% !important;
+  height: auto !important;
+  border: none;
+  margin: 5px;
+  object-fit: cover;
+}
+#customers-testimonials .item {
+  width: 80%;
+  margin: auto;
+}
+
+.brand-one {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  border-bottom: 1px solid #e4e4ee;
+}
+
+@media (min-width: 1200px) {
+  .brand-one .container {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+}
+
+.brand-one .swiper-container img {
+  opacity: 90%;
+  -webkit-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+.brand-one .swiper-container img:hover {
+  opacity: 80%;
+}
+
+.wrapper {
+  background-image: url("../../Assets/WeddingImagee.jpg");
+  height: 95vh;
+  background-position: center;
+  background-color: rgba(259, 67, 95, 0.7);
+  background-size: cover;
+}
+
+.second_slide {
+  background-image: url("../../Assets/DancingImg.jpg");
+}
+
+.header_heading {
+  color: #ffffff;
+  font: normal normal normal 40px/75px Scotch;
+  font-size: 55px;
+  text-align: center;
+  line-height: 1.07;
+  margin: auto;
+}
+
+.header_slogan {
+  font-family: "Nanum Gothic", sans-serif;
+  color: #ffffff;
+  text-align: center;
+  margin: auto;
+}
+.mobile_numberbtn {
+  padding: 9.5px 27.5px 8px;
+  border-radius: 24px;
+  margin-left: 10px;
+  width: 30vh;
+  margin: auto;
+}
+.phonenumber_text {
+  padding: 9.5px 27.5px 8px;
+  border-radius: 24px;
+  height: auto;
+  width: 30vh;
+  background: lightgrey;
+  text-align: center;
+}
+
+@media (min-width: 873px) {
+  .header_heading {
+    font-size: 80px;
+  }
+}
+
+.our_feature {
+  font: normal normal normal 35px/75px Scotch;
+}
+.personal_area h2 {
+  font: normal normal normal 35px/75px Scotch !important;
+}
+.mybutton_here {
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  width: 30vh;
+  padding: 6.5px 51.5px 7px;
+  border-radius: 20px;
+  -webkit-backdrop-filter: blur(7.5px);
+  backdrop-filter: blur(7.5px);
+  background-color: var(--black);
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 20px;
+}
+.alignthat_btnh {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 500px) {
+  /*  .header_containmain {
+    margin-top: 50px !important;
+  } */
+  .mybutton_here {
+    width: 100%;
+  }
+  .phonenumber_text {
+    width: 100%;
+  }
+  .mobile_numberbtn {
+    width: 100%;
+  }
+  .slide_numberbtn {
+    width: 100%;
+  }
+  .secondslide_heading {
+    margin-top: 30px !important;
+  }
+}
+
+.header_containmain {
+  margin-top: 120px;
+  /* padding: 50px 0; */
+}
+
+.secondslide_heading {
+  margin-top: 120px;
+}
+.whatsappbtn {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+
+.my-float {
+  margin-bottom: 3px;
+  margin-left: 2px;
+}
+
+@media (max-width: 400px) {
+  .header_heading {
+    font-size: 45px;
+  }
+}
+
+.secondslide_heading {
+  font-family: Scotch;
+  font-size: 80px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.07;
+  letter-spacing: normal;
+}
+.secondslide_par {
+  font-family: "Nanum Gothic", sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+}
+.slide_numberbtn {
+  padding: 9.5px 27.5px 8px;
+  border-radius: 24px;
+  margin-top: 20px;
+  width: 30vh;
+}
+
+.header_slidertwo {
+  float: left;
+}
+
+@media (max-width: 500px) {
+  .slide_numberbtn {
+    width: 100%;
+  }
+  .secondslide_heading {
+    font-size: 45px;
+  }
+  .secondslide_par {
+    font-size: 18px;
+    text-align: center;
+    margin: auto;
+  }
+  .image_secondslide {
+    height: 100px;
+    margin: auto;
+  }
+  .second_slide {
+    background-image: url("../../Assets/SecondMobile.jpg");
+  }
+  .secondslide_heading {
+    margin: auto;
+    text-align: center;
+  }
+  .thirdslide_extra {
+    margin: auto;
+  }
+  .third_slide {
+    background-image: url("../../Assets/mobilethird.jpg") !important;
+  }
+}
+
+.secondslide_btnn {
+  float: right;
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  width: auto;
+  padding: 6.5px 51.5px 7px;
+  border-radius: 20px;
+  -webkit-backdrop-filter: blur(7.5px);
+  backdrop-filter: blur(7.5px);
+  background-color: rgb(60, 60, 60);
+}
+
+.third_slide {
+  background-image: url("../../Assets/VideoImage.jpg");
+}
+
+.thirdslide_extra {
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.56;
+  letter-spacing: normal;
+  font-weight: 600;
+}
+
+a.blantershow-chat {
+  background: linear-gradient(to left top, #23ab23, #4ee74e);
+  color: #fff;
+  position: fixed;
+  z-index: 98;
+  bottom: 40px;
+  right: 30px;
+  font-size: 15px;
+  padding: 10px 20px;
+  border-radius: 30px;
+  box-shadow: 0 1px 15px rgba(32, 33, 36, 0.28);
+  text-decoration: none;
+}
+a.blantershow-chat i {
+  transform: scale(1.2);
+  margin: 0 10px 0 0;
+}

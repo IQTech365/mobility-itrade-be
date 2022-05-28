@@ -1,0 +1,38 @@
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
+
+.ourstory_heading {
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1d1d1d;
+}
+
+.card_image {
+  height: 100px;
+  object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  .card_image {
+    height: 100px;
+    object-fit: contain;
+  }
+  .img-square-wrapper {
+    margin: auto;
+  }
+}
+.ourstory_text {
+  font-size: 14px;
+  color: #3897f1;
+}
+.ourstory_date {
+  font-size: 13px;
+  font-weight: 500;
+}

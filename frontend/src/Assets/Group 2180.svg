@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="321" height="318" viewBox="0 0 321 318">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.139" y1="0.199" x2="0.908" y2="0.798" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2180" data-name="Group 2180" transform="translate(-92 -1049)">
+    <text id="Schedule_Location" data-name="Schedule Location" transform="translate(255 1315)" fill="#1f1f1f" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-56.253" y="0">Schedule Location</tspan></text>
+    <g id="Group_112" data-name="Group 112" transform="translate(182 1139)">
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="71" cy="69.5" rx="71" ry="69.5" transform="translate(3 7)" fill="rgba(0,0,0,0.1)"/>
+      <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="70.5" cy="69" rx="70.5" ry="69" fill="#fff"/>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="71.5" cy="70" rx="71.5" ry="70" transform="translate(3 3)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_116" data-name="Group 116" transform="translate(-794.942 31.521)">
+      <g id="noun_Location_2944976" transform="translate(1035 1158)">
+        <path id="Path_112" data-name="Path 112" d="M34.883,5A16.943,16.943,0,0,0,20.318,30.6h0q.412.687.883,1.332L34.883,52.564l14.042-21.14.026-.042.037-.053h0A16.943,16.943,0,0,0,34.883,5Zm0,29.6A12.657,12.657,0,1,1,47.541,21.943,12.657,12.657,0,0,1,34.883,34.6Z" transform="translate(-17.94 -5)" fill="rgba(152,103,109,0.1)" stroke="#98676d" stroke-width="1"/>
+      </g>
+      <g id="Group_25" data-name="Group 25" transform="translate(1042.996 1165.996)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="8.947" cy="8.947" r="8.947" fill="rgba(152,103,109,0.1)" stroke="#98676d" stroke-width="1"/>
+        <path id="Path_113" data-name="Path 113" d="M1063,1234.266v5.762h5.246" transform="translate(-1054.659 -1229.215)" fill="none" stroke="#98676d" stroke-linecap="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+.no-proifle {
+  border: solid red;
+  border-radius: 20px;
+}
+.Profile {
+  height: 60px;
+  width: 50px;
+  object-fit: contain;
+}
+
+.MuiOutlinedInput-root {
+  border-radius: 20px !important;
+}

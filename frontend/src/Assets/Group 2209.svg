@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="321" height="318" viewBox="0 0 321 318">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.139" y1="0.199" x2="0.908" y2="0.798" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2209" data-name="Group 2209" transform="translate(64 -1049)">
+    <text id="Albums" transform="translate(99 1315)" fill="#1f1f1f" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-23.287" y="0">Albums</tspan></text>
+    <g id="Group_112" data-name="Group 112" transform="translate(26 1139)">
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="71" cy="69.5" rx="71" ry="69.5" transform="translate(3 7)" fill="rgba(0,0,0,0.1)"/>
+      <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="70.5" cy="69" rx="70.5" ry="69" fill="#fff"/>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="71.5" cy="70" rx="71.5" ry="70" transform="translate(3 3)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="noun_Album_670517" transform="translate(78.235 1197.083)">
+      <g id="Group_102" data-name="Group 102" transform="translate(-0.407 -4.631)">
+        <rect id="Rectangle_20" data-name="Rectangle 20" width="43" height="29" transform="translate(0.173 10.548)" fill="rgba(222,96,99,0.1)" stroke="#de6063" stroke-width="1.5"/>
+        <rect id="Rectangle_21" data-name="Rectangle 21" width="37" height="2" transform="translate(3.173 6.548)" fill="rgba(222,96,99,0.1)" stroke="#de6063" stroke-width="0.5"/>
+        <rect id="Rectangle_22" data-name="Rectangle 22" width="29" height="2" transform="translate(7.173 2.548)" fill="rgba(222,96,99,0.1)" stroke="#de6063" stroke-width="0.5"/>
+        <rect id="Rectangle_30" data-name="Rectangle 30" width="15" height="2" transform="translate(14.173 -1.452)" fill="rgba(222,96,99,0.1)" stroke="#de6063" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

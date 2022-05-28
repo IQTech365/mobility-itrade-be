@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="321" height="318" viewBox="0 0 321 318">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.139" y1="0.199" x2="0.908" y2="0.798" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2216" data-name="Group 2216" transform="translate(-92 -828)">
+    <text id="Invite_at_GO" data-name="Invite at GO" transform="translate(255 1094)" fill="#1f1f1f" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-36.753" y="0">Invite at GO</tspan></text>
+    <g id="Group_112" data-name="Group 112" transform="translate(182 918)">
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="71" cy="69.5" rx="71" ry="69.5" transform="translate(3 7)" fill="rgba(0,0,0,0.1)"/>
+      <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="70.5" cy="69" rx="70.5" ry="69" fill="#fff"/>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="71.5" cy="70" rx="71.5" ry="70" transform="translate(3 3)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="noun_invitation_1243670" transform="translate(229.746 962.937)">
+      <path id="Path_849" data-name="Path 849" d="M48.433,24.409a1.2,1.2,0,0,0-.092-.155l-.063-.048a1.2,1.2,0,0,0-.116-.121l-.034-.034-5.062-4.193V17.646a5.077,5.077,0,0,0-5.072-5.072H34.28L30.251,9.232a3.145,3.145,0,0,0-4,0L22.223,12.56H18.509a5.077,5.077,0,0,0-5.072,5.072v2.227L8.37,24.027l-.034.034a1.209,1.209,0,0,0-.116.121l-.058.068a1.208,1.208,0,0,0-.092.155l-.034.063a1.2,1.2,0,0,0-.106.483V43.527A5.077,5.077,0,0,0,13,48.6H43.5a5.077,5.077,0,0,0,5.072-5.072V24.959a1.2,1.2,0,0,0-.106-.483ZM43.066,22.96l2.343,1.932L43.066,26.64Zm-15.3-11.849a.725.725,0,0,1,.923,0l1.773,1.449H26.015ZM24.749,24.278h2.294V21.984a1.208,1.208,0,0,1,2.415,0v2.294h2.294a1.208,1.208,0,1,1,0,2.415H29.459v2.294a1.208,1.208,0,0,1-2.415,0V26.694H24.749a1.208,1.208,0,1,1,0-2.415Zm-11.313-1.3V26.66l-2.343-1.749ZM46.153,43.527A2.662,2.662,0,0,1,43.5,46.184H13.007a2.662,2.662,0,0,1-2.657-2.657V27.365l3.381,2.512a1.2,1.2,0,0,0,.483.353l12.158,9.086a3.159,3.159,0,0,0,3.753,0l12.187-9.081a1.2,1.2,0,0,0,.483-.353l3.381-2.512Z" transform="translate(0 0)" fill="rgba(255,186,0,0.1)" stroke="#ffba00" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

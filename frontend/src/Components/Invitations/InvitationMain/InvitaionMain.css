@@ -1,0 +1,225 @@
+.box-event {
+  width: 80%;
+  background-color: rgb(255, 255, 255);
+  height: 70px;
+  padding: 10px;
+  border-radius: 57px;
+  -webkit-backdrop-filter: blur(2.5px);
+  backdrop-filter: blur(2.5px);
+  box-shadow: 8px 10px 18px -9px rgba(0, 0, 0, 0.49);
+  margin-top: -2vh !important;
+}
+.image-main {
+  margin-top: 6px;
+}
+.img-fluid {
+  max-width: 100%;
+  height: 50vh;
+  width: 100%;
+  object-fit: contain;
+}
+/*  .formcontrol-sm {
+  border: 0;
+  width: 30%;
+  height: 20px;
+  margin-left: 60px;
+} */
+
+.avatar-name {
+  border: 0;
+  font-size: 15px;
+  color: black;
+  font-weight: bold;
+  margin-top: -40px;
+  margin-left: 68px;
+  line-height: 1.13;
+}
+/* .form-control {
+  border: 0;
+  width: 30%;
+  height: 20px;
+  margin-left: 60px;
+}
+ */
+.upper-menu {
+  position: relative;
+  z-index: 10;
+}
+.container-event {
+  position: absolute;
+  z-index: 2;
+  top: 0vh;
+  padding: 10px;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  display: block;
+  background-color: black;
+  background-color: rgba(70, 70, 70, 0.25);
+}
+.carousel-inner {
+  height: 100vh;
+}
+.event-chat-buttons {
+  position: relative;
+  bottom: 5vh;
+  float: right;
+}
+.event-date {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  margin-top: 10px;
+}
+.fullimagemain {
+  height: 50vh;
+  object-fit: cover;
+  width: 100%;
+}
+.go-chat {
+  color: grey;
+  width: 37px;
+  height: 37px;
+  background: #3897f1;
+  border-radius: 50%;
+  padding: 7px;
+}
+.event-des {
+  color: black;
+}
+.Like-count {
+  position: relative;
+  left: 2vw;
+  bottom: 2vh;
+  z-index: 2;
+  font-weight: bold;
+}
+.RSVP-count {
+  position: relative;
+  left: 3vw;
+  top: 1vh;
+  z-index: 2;
+}
+@media (max-width: 1199px) {
+  .box-event {
+    width: auto;
+    height: 50px;
+    padding-top: 5px !important;
+  }
+  .image-main {
+    margin-top: -2px;
+  }
+  .event-date {
+    font-size: 16px;
+  }
+
+  .event-des {
+    font-size: 15px;
+    line-height: 1.43;
+  }
+  .Like-count {
+    position: relative;
+    left: 3vw !important;
+    bottom: 2vh;
+    z-index: 2;
+  }
+  .RSVP-count {
+    position: relative;
+    left: 3vw;
+    top: 1vh;
+    z-index: 2;
+  }
+}
+
+@media (max-width: 991px) {
+  .box-event {
+    width: 97%;
+    height: 60px;
+  }
+  .event-chat-buttons {
+    bottom: 6vh !important;
+    margin-right: 5px !important;
+  }
+  .image-main {
+    margin-top: -2px;
+  }
+  .event-date {
+    font-size: 16px;
+  }
+
+  .event-des {
+    font-size: 15px;
+    line-height: 1.43;
+  }
+  .Like-count {
+    position: relative;
+    left: 4vw !important;
+    bottom: 2vh;
+    z-index: 2;
+  }
+  .RSVP-count {
+    position: relative;
+    left: 3vw;
+    top: 1vh;
+    z-index: 2;
+  }
+}
+@media (max-width: 491px) {
+  .Like-count {
+    position: relative;
+    left: 10vw !important;
+    bottom: 2vh;
+    z-index: 2;
+  }
+}
+@media (min-width: 1484px) {
+  .row {
+    margin-left: 100px;
+  }
+}
+
+.send-icon {
+  float: right;
+  margin-right: 6vh;
+  margin-top: 1vh;
+  position: relative;
+  bottom: 5vh;
+}
+
+.carousel-indicators {
+  visibility: visible;
+}
+
+.carousel-indicators li {
+  background-color: black;
+  margin-bottom: 5vh;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  display: none;
+}
+
+.chat-icon {
+  float: right;
+  color: grey;
+  width: 35px;
+  height: 35px;
+  background: #3897f1;
+  border-radius: 50%;
+  padding: 7px;
+}
+
+.carousel-indicators .active {
+  visibility: hidden;
+}
+.invitationmain_link {
+  text-decoration: none !important;
+  font-size: small;
+}
+
+@media (max-width: 320px) {
+  .fullimagemain {
+    height: 50vh!;
+  }
+}

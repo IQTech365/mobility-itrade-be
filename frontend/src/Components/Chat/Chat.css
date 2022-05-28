@@ -1,0 +1,48 @@
+.chat {
+  height: 85%;
+  overflow-y: auto;
+}
+.inputbox {
+  height: 10%;
+}
+
+.vlgrey {
+  background: #f5f0f0;
+}
+.white {
+}
+.contact {
+  width: 96% !important;
+  margin: 2% !important;
+}
+.recieved {
+  width: 70%;
+  padding: 10px;
+  background: rgb(100, 196, 255);
+  color: rgb(8, 80, 223);
+  float: left;
+  margin: 2px;
+  margin-left: 15px;
+  border-radius: 0px 30px 30px 30px;
+  padding-left: 15px;
+}
+.sender {
+  width: 70%;
+  padding: 10px;
+  background: rgb(8, 80, 223);
+  color: white;
+  float: right;
+  margin: 2px;
+  margin-right: 15px;
+  border-radius: 30px 0px 30px 30px;
+  padding-left: 15px;
+}
+.chatheadertitle {
+  margin-left: 10px !important;
+}
+.chat-img {
+  width: 96%;
+  object-fit: contain;
+  margin: 2%;
+  height: 200px;
+}

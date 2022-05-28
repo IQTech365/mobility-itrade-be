@@ -1,0 +1,11 @@
+.messageboard {
+  margin-top: 5vh;
+  padding: 10px;
+}
+.messageboard-txt {
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  font-size: 25px;
+}

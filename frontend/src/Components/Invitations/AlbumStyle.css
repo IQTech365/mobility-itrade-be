@@ -1,0 +1,7 @@
+.edit_albumsbtn {
+  float: right;
+  border-radius: 25px;
+}
+.image-gallery-image {
+  height: 55vh !important;
+}

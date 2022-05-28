@@ -1,0 +1,334 @@
+.padding-left-7 {
+  padding-left: 7% !important;
+}
+.p-l-5px {
+  padding-left: 5px !important;
+}
+.fs-bold {
+  font-weight: bolder;
+}
+.fl {
+  float: left !important;
+}
+.fr {
+  float: right !important;
+}
+.title-name {
+  width: 150px;
+}
+
+.w-80 {
+  width: 80vw !important;
+}
+.w-90-p {
+  width: 90% !important;
+}
+.w-100-p {
+  width: 100% !important;
+}
+.jcr {
+  justify-content: right;
+}
+.jcl {
+  justify-content: left;
+}
+.jcc {
+  justify-content: center;
+}
+.tar {
+  text-align: right;
+}
+.tal {
+  text-align: left;
+}
+.tac {
+  text-align: center;
+}
+.p-t-5 {
+  padding-top: 5px;
+}
+.p-10-p {
+  padding-top: 10px;
+}
+.w-100 {
+  width: 100% !important;
+}
+.w-50 {
+  width: 50% !important;
+}
+.padding-5px {
+  padding: 5px;
+}
+.p-15px {
+  padding: 15px !important;
+}
+.m-5px {
+  margin: 5px !important;
+}
+.m-0 {
+  margin: 0 !important;
+}
+.m-b-5px {
+  margin-bottom: 5px !important;
+}
+.schedule-card {
+  margin: 15px;
+  padding: 10px;
+  height: 200px !important;
+}
+.p-t-15px {
+  padding-top: 15px !important;
+}
+.ofh {
+  overflow-y: auto !important;
+}
+.fs-small {
+  font-size: 8px !important;
+}
+.mb-100 {
+  margin-bottom: 100px !important;
+}
+.opaque {
+  opacity: 1 !important;
+}
+.mt-10px {
+  margin-top: 10px !important;
+}
+.pt-0 {
+  padding-top: 0 !important;
+}
+.pb-0 {
+  padding-bottom: 0 !important;
+}
+.mt-5px {
+  margin-top: 5px !important;
+}
+.mt-15px {
+  margin-top: 15px !important;
+}
+.MuiAvatar-circle {
+  border: solid grey;
+}
+.b-none {
+  border: none !important;
+}
+.b-none:focus {
+  outline: none !important;
+}
+.p-0 {
+  padding: 0 !important;
+}
+.p-t-10 {
+  padding-top: 10px;
+}
+.m-b-25px {
+  margin-bottom: 25px !important;
+}
+.m-b-50px {
+  margin-bottom: 50px !important;
+}
+.m-b-10 {
+  margin-bottom: 10px !important;
+}
+.p-5px {
+  padding: 5px !important;
+}
+.p-10px {
+  padding: 10px;
+}
+.pt-13px {
+  padding-top: 13px !important;
+}
+.m-10px {
+  margin: 10px;
+}
+.label {
+  padding: 5px;
+  font-weight: bold;
+  font-size: 14px !important;
+  position: relative;
+  bottom: 7px;
+}
+.theme-font {
+  font-size: 14px !important;
+}
+.m-7px {
+  margin: 7px !important;
+}
+.btn-rnd {
+  border-radius: 500px !important;
+}
+/* .MuiInputBase-formControl {
+  border: solid 3px #3897f1 !important;
+  outline: none !important;
+  border-radius: 500px !important;
+  color: #3897f1 !important;
+}
+.MuiInputBase-formControl:active {
+  border: solid 3px #3897f1 !important;
+  outline: none !important;
+  border-radius: 500px !important;
+  color: #3897f1 !important;
+} */
+.height30 {
+  height: 30vh;
+}
+.MuiInputBase-formControl :focus {
+  outline: none !important;
+  border: none !important;
+}
+.MuiOutlinedInput-input {
+  padding: 12px !important;
+}
+.b {
+  font-weight: bold !important;
+}
+.Progress {
+  position: absolute;
+  top: 48vh !important;
+  left: 48vw !important;
+}
+.u {
+  border-bottom: solid #3897f1 !important;
+}
+.mobile-only {
+  display: none;
+}
+.desktop-only {
+  display: block;
+}
+.pt-18px {
+  padding-top: 18px !important;
+}
+.card-shadow {
+  box-shadow: 1px 1px 7px 1px #b9b9b9;
+}
+
+.add-button {
+  font-size: 80px !important;
+  border-radius: 100% !important;
+  color: #3897f3 !important;
+  box-shadow: 1px 1px 7px 1px grey;
+  z-index: 12;
+}
+.bottom {
+  position: absolute;
+  bottom: 6%;
+}
+.right {
+  position: absolute;
+  left: 48%;
+}
+.error {
+  font-size: 10px;
+  color: red;
+}
+.fs-12 {
+  font-size: 12px;
+}
+.fs-14 {
+  font-size: 14px;
+}
+.fsm {
+  font-size: medium;
+}
+.v-t {
+  vertical-align: baseline;
+}
+.hide {
+  display: none;
+}
+.show {
+  display: block;
+}
+.h93 {
+  height: 93vh;
+}
+.h7 {
+  height: 7vh;
+}
+.h100p {
+  height: 100%;
+}
+.h100 {
+  height: 100vh;
+}
+.h70 {
+  height: 70vh !important;
+}
+.h80 {
+  height: 80vh !important;
+}
+.tilt {
+  transform: rotate(45deg);
+}
+.m-5px {
+  margin: 5px !important;
+}
+.m-0 {
+  margin: 0 !important;
+}
+.p-0 {
+  padding: 0 !important;
+}
+.btn-link {
+  color: #000 !important;
+}
+#jitsi-container {
+  height: 92vh !important;
+  width: 100vw !important;
+}
+.blank-img {
+  height: 60vh !important;
+  width: 90vw !important;
+  margin: auto !important;
+  margin-top: 5vh !important;
+  object-fit: contain;
+}
+.footnavmobile {
+  display: none;
+}
+.MuiOutlinedInput-notchedOutline:active {
+  border-color: solid #3897f1 !important;
+}
+.nounder {
+  text-decoration: none !important;
+  color: #3897f1 !important;
+}
+.MuiPaper-elevation1 {
+  background: white !important;
+  box-shadow: none !important;
+  outline: none !important;
+  border: none !important;
+}
+.MuiInputBase-input {
+  height: 10px !important;
+}
+.MuiSelect-outlined.MuiSelect-outlined {
+  height: 1.1876em !important;
+}
+.editimagebuttons {
+  width: 50px;
+  height: 50px;
+  position: fixed !important;
+  z-index: 3;
+  background: white !important;
+  left: 85vw;
+  box-shadow: 2px 2px 5px 0px grey;
+  border: solid #3897f1 !important;
+  margin: 2px;
+}
+.editimagebuttonback {
+  width: 50px;
+  height: 50px;
+  left: 1vw;
+  position: fixed !important;
+  z-index: 3;
+  background: white !important;
+  box-shadow: 2px 2px 5px 0px grey;
+  border: solid #3897f1 !important;
+  margin: 2px;
+}
+.h-100 {
+  height: 100% !important;
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342" height="431" viewBox="0 0 342 431">
+  <g id="Group_3817" data-name="Group 3817" transform="translate(-17 -191)">
+    <g id="Group_3612" data-name="Group 3612" transform="translate(0 27)">
+      <rect id="Rectangle_640" data-name="Rectangle 640" width="342" height="431" rx="30" transform="translate(17 164)" fill="#fff"/>
+      <g id="Group_3" data-name="Group 3" transform="translate(336.302 169.014) rotate(45)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="12.631" cy="12.631" r="12.631" transform="translate(0 0)" fill="#d62d20"/>
+        <g id="Group_2" data-name="Group 2" transform="translate(7.629 7.826)">
+          <line id="Line_3" data-name="Line 3" x2="10.006" transform="translate(0 5.003)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+          <line id="Line_4" data-name="Line 4" x2="10.006" transform="translate(5.003 0) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_3638" data-name="Group 3638" transform="translate(0 87)">
+      <text id="Your_Invitation_has_been_successfully_Added" data-name="Your Invitation has been 
+successfully Added" transform="translate(188 429.879)" fill="#1f1f1f" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-116.87" y="0">Your Invitation has been </tspan><tspan x="-88.979" y="28">successfully Added</tspan></text>
+      <path id="check-circle.1" d="M139.37,73.685A65.685,65.685,0,1,1,73.685,8,65.685,65.685,0,0,1,139.37,73.685Zm-73.283,34.78,48.734-48.734a4.238,4.238,0,0,0,0-5.993l-5.993-5.993a4.238,4.238,0,0,0-5.993,0L63.091,87.489,44.535,68.933a4.238,4.238,0,0,0-5.993,0l-5.993,5.993a4.238,4.238,0,0,0,0,5.993l27.545,27.545a4.238,4.238,0,0,0,5.993,0Z" transform="translate(114.5 205)" fill="rgba(0,135,68,0.1)" stroke="#008744" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

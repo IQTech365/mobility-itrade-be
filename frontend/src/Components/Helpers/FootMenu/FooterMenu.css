@@ -1,0 +1,11 @@
+.menubox {
+  text-align: center;
+  color: grey;
+}
+.activemenu {
+  color: #3897f1 !important;
+  text-decoration: underline;
+  font-weight: bolder;
+  text-underline-offset: 10px;
+  text-decoration-thickness: 4px;
+}

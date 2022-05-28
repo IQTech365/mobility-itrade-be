@@ -1,0 +1,67 @@
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 20000;
+}
+.modal-card {
+  background: #fff;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  box-shadow: 0 0 0 0 grey;
+  padding: 1em;
+  width: 350px;
+  height: auto;
+}
+.modal-page {
+  background: #fff;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  box-shadow: 0 0 0 0 grey;
+  padding: 1em;
+  width: 100% !important;
+  height: 100% !important;
+  overflow: scroll;
+}
+.popup-close {
+  position: relative !important;
+  left: 90%;
+  bottom: 25px;
+  right: 5px;
+}
+.modal-title {
+  font-size: 26px;
+  font-weight: 400;
+}
+.modal-title-description {
+  font-size: 14px;
+  font-weight: 300;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.f-s-modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed !important;
+  z-index: 20000 !important;
+  left: 0 !important;
+  inset: initial !important;
+  top: 0 !important;
+}
+.f-s-modal-card {
+  background: #fff;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  box-shadow: 0 0 0 0 grey;
+  width: 100vw !important;
+  height: 100vh !important;
+  overflow: auto;
+}
+.h70 {
+  height: auto !important;
+}

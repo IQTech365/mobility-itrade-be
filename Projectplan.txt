@@ -1,0 +1,75 @@
+API    
+    Auth
+        register .
+        Login .
+        sendotp .
+        verifyotp .
+
+    Events
+        create .
+            create invitaion .
+            create individual child Events .
+            create meeting link if required
+            send invitaion
+            if Participants are not added for or code is required create code and generate links
+            
+
+        update
+            update Participants
+            upadte Venue
+            add more Events
+            delete events
+
+        View .
+            Get EventList that i Created  with populated data
+            Get EventList that i am invited to with populated data
+
+        Like .
+            Like
+            Unlike
+        Comment .
+            Comment
+        RSVP .
+            SetRSVP
+        Stream 
+            SteamLink
+       
+        
+    CHAT
+        send 
+        recieve
+
+
+Moules
+    Auth
+        _id
+        phone
+
+    Invitaion
+        _id
+        EventList
+        Type
+
+    Events  
+        _id
+        Host
+        Name
+        Date
+        Time
+        Description
+        VenueType
+        Location
+        MainCode
+        eventCode
+        Participants
+        Schedule
+        file
+        filetype
+        GuestInvite
+        InvId
+    Chat
+        _id
+        room_id
+        sender
+        data_enc
+        

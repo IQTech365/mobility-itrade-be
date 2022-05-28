@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="174" height="233" viewBox="0 0 174 233">
+  <defs>
+    <filter id="Rectangle_1103" x="0" y="0" width="174" height="233" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3668" data-name="Group 3668" transform="translate(-19 -308)">
+    <g transform="matrix(1, 0, 0, 1, 19, 308)" filter="url(#Rectangle_1103)">
+      <rect id="Rectangle_1103-2" data-name="Rectangle 1103" width="150" height="209" rx="10" transform="translate(12 12)" fill="#fff"/>
+    </g>
+    <g id="Group_3667" data-name="Group 3667">
+      <g id="gallery" transform="translate(77 343.597)">
+        <g id="Group_85" data-name="Group 85" transform="translate(0 26.403)">
+          <g id="Group_84" data-name="Group 84">
+            <path id="Path_270" data-name="Path 270" d="M30.79,249.109a7.517,7.517,0,0,1-4.718-1.759l-8.716-7.676a3.838,3.838,0,0,0-4.958-.24L0,248.549v5.917A2.879,2.879,0,0,0,2.718,257.5c.082,0,.164.006.246,0h43.9c1.759,0,3.518-1.279,3.518-3.039V238.953l-15.753,9.116A7.278,7.278,0,0,1,30.79,249.109Z" transform="translate(0 -206.156)" fill="rgba(88,154,201,0.1)" stroke="#3897f1" stroke-width="1.5"/>
+            <circle id="Ellipse_3" data-name="Ellipse 3" cx="3.518" cy="3.518" r="3.518" transform="translate(26.632 20.403)" fill="rgba(88,154,201,0.1)" stroke="#3897f1" stroke-width="1.5"/>
+            <path id="Path_271" data-name="Path 271" d="M106.512,32.653a2.959,2.959,0,0,0-2.159-1.2l-43.58-5.038a3.184,3.184,0,0,0-3.6,2.719l-.72,6.237H94.677a6.877,6.877,0,0,1,6.717,6.637V70.235c0-.16.72-.32,1.04-.64a2.719,2.719,0,0,0,1.04-2.159l3.758-32.465A3.119,3.119,0,0,0,106.512,32.653Z" transform="translate(-47.814 -26.403)" fill="rgba(88,154,201,0.1)" stroke="#3897f1" stroke-width="1.5"/>
+            <path id="Path_272" data-name="Path 272" d="M46.888,105.9H2.989A3.228,3.228,0,0,0,.03,109.337v22.789l10.555-7.676a7.037,7.037,0,0,1,8.876.4l8.8,7.676a4.078,4.078,0,0,0,4.718.4l17.432-10.155V109.337A3.678,3.678,0,0,0,46.888,105.9ZM30.176,124.37a6.717,6.717,0,1,1,6.717-6.717A6.717,6.717,0,0,1,30.176,124.37Z" transform="translate(-0.025 -93.732)" fill="rgba(88,154,201,0.1)" stroke="#3897f1" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+      <text id="Choose_from_Gallery" data-name="Choose from 
+Gallery" transform="translate(107 475)" fill="#1f1f1f" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-41.72" y="0">Choose from </tspan><tspan x="-21.236" y="20">Gallery</tspan></text>
+    </g>
+  </g>
+</svg>

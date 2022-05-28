@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="305" height="100" viewBox="0 0 305 100">
+  <defs>
+    <filter id="Ellipse_1" x="0" y="0" width="90" height="90" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1-2" x="107" y="0" width="90" height="90" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1-3" x="215" y="0" width="90" height="90" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4326" data-name="Group 4326" transform="translate(-52 -437)">
+    <g id="Group_4320" data-name="Group 4320" transform="translate(64 449)">
+      <g id="Group_4319" data-name="Group 4319">
+        <g transform="matrix(1, 0, 0, 1, -12, -12)" filter="url(#Ellipse_1)">
+          <circle id="Ellipse_1-4" data-name="Ellipse 1" cx="33" cy="33" r="33" transform="translate(12 12)" fill="#fff"/>
+        </g>
+      </g>
+      <path id="check-double" d="M22.257,7.7,20.508,5.948a1.056,1.056,0,0,0-1.5,0L8.432,16.526,3.512,11.6a1.056,1.056,0,0,0-1.5,0L.261,13.354a1.061,1.061,0,0,0,0,1.5l7.42,7.425a1.056,1.056,0,0,0,1.5,0L22.252,9.2a1.065,1.065,0,0,0,0-1.5ZM7.933,12.378a.7.7,0,0,0,1,0l9.187-9.2a.709.709,0,0,0,0-1l-2-2a.7.7,0,0,0-1,0L8.432,6.875,5.985,4.424a.7.7,0,0,0-1,0l-2,2a.709.709,0,0,0,0,1Z" transform="translate(21.24 22.072)" fill="rgba(181,95,203,0.1)" stroke="#b55fcb" stroke-width="1"/>
+    </g>
+    <text id="Wedding" transform="translate(70 534)" fill="#b55fcb" font-size="11" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Wedding</tspan></text>
+    <g id="Group_4321" data-name="Group 4321" transform="translate(171.471 449)">
+      <g id="Group_4319-2" data-name="Group 4319" transform="translate(0)">
+        <g transform="matrix(1, 0, 0, 1, -119.47, -12)" filter="url(#Ellipse_1-2)">
+          <circle id="Ellipse_1-5" data-name="Ellipse 1" cx="33" cy="33" r="33" transform="translate(119 12)" fill="#fff"/>
+        </g>
+      </g>
+      <path id="check-double-2" data-name="check-double" d="M22.257,7.7,20.508,5.948a1.056,1.056,0,0,0-1.5,0L8.432,16.526,3.512,11.6a1.056,1.056,0,0,0-1.5,0L.261,13.354a1.061,1.061,0,0,0,0,1.5l7.42,7.425a1.056,1.056,0,0,0,1.5,0L22.252,9.2a1.065,1.065,0,0,0,0-1.5ZM7.933,12.378a.7.7,0,0,0,1,0l9.187-9.2a.709.709,0,0,0,0-1l-2-2a.7.7,0,0,0-1,0L8.432,6.875,5.985,4.424a.7.7,0,0,0-1,0l-2,2a.709.709,0,0,0,0,1Z" transform="translate(21.24 22.072)" fill="#f6f6f6" stroke="#5e88da" stroke-width="1"/>
+    </g>
+    <text id="Birthday" transform="translate(179 534)" fill="#5e88da" font-size="11" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Birthday</tspan></text>
+    <g id="Group_4322" data-name="Group 4322" transform="translate(278.942 449)">
+      <g id="Group_4319-3" data-name="Group 4319" transform="translate(0)">
+        <g transform="matrix(1, 0, 0, 1, -226.94, -12)" filter="url(#Ellipse_1-3)">
+          <circle id="Ellipse_1-6" data-name="Ellipse 1" cx="33" cy="33" r="33" transform="translate(227 12)" fill="#fff"/>
+        </g>
+      </g>
+      <path id="check-double-3" data-name="check-double" d="M22.257,7.7,20.508,5.948a1.056,1.056,0,0,0-1.5,0L8.432,16.526,3.512,11.6a1.056,1.056,0,0,0-1.5,0L.261,13.354a1.061,1.061,0,0,0,0,1.5l7.42,7.425a1.056,1.056,0,0,0,1.5,0L22.252,9.2a1.065,1.065,0,0,0,0-1.5ZM7.933,12.378a.7.7,0,0,0,1,0l9.187-9.2a.709.709,0,0,0,0-1l-2-2a.7.7,0,0,0-1,0L8.432,6.875,5.985,4.424a.7.7,0,0,0-1,0l-2,2a.709.709,0,0,0,0,1Z" transform="translate(21.24 22.072)" fill="rgba(222,96,99,0.1)" stroke="#de6063" stroke-width="1"/>
+    </g>
+    <text id="Ceremony" transform="translate(284 534)" fill="#de6063" font-size="11" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Ceremony</tspan></text>
+  </g>
+</svg>

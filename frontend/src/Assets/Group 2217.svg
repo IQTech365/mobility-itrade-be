@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="321" height="318" viewBox="0 0 321 318">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.139" y1="0.199" x2="0.908" y2="0.798" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2217" data-name="Group 2217" transform="translate(64 -1049)">
+    <text id="Easy_to_create_in_5_Minutes" data-name="Easy to create 
+in 5 Minutes" transform="translate(99 1315)" fill="#1f1f1f" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-44.608" y="0">Easy to create </tspan><tspan x="-38.172" y="20">in 5 Minutes</tspan></text>
+    <g id="Group_112" data-name="Group 112" transform="translate(26 1139)">
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="71" cy="69.5" rx="71" ry="69.5" transform="translate(3 7)" fill="rgba(0,0,0,0.1)"/>
+      <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="70.5" cy="69" rx="70.5" ry="69" fill="#fff"/>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="71.5" cy="70" rx="71.5" ry="70" transform="translate(3 3)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_2286" data-name="Group 2286" transform="translate(70.339 1190.551)">
+      <path id="Path_854" data-name="Path 854" d="M76.8,12.169,67.671,3.081A.946.946,0,0,0,67.4,2.9v9.54h9.54C76.94,12.35,76.85,12.259,76.8,12.169Z" transform="translate(-30.844 -0.219)" fill="rgba(152,103,109,0.1)" stroke="#98676d" stroke-width="1.5"/>
+      <path id="Path_855" data-name="Path 855" d="M35.154,15.07a1.409,1.409,0,0,1-1.4-1.4V2.5H19.193a1.167,1.167,0,0,0-1.176,1.176v18.04A12.561,12.561,0,1,0,34.883,38.581H45.146a1.14,1.14,0,0,0,1.176-1.176V15.07ZM23.67,42.65a9.721,9.721,0,1,1,9.721-9.721A9.735,9.735,0,0,1,23.67,42.65Z" transform="translate(0 0)" fill="rgba(152,103,109,0.1)" stroke="#98676d" stroke-width="1.5"/>
+      <path id="Path_856" data-name="Path 856" d="M36.171,60.957H32.96V57.7a1.4,1.4,0,1,0-2.8,0v3.255H26.9a1.4,1.4,0,1,0,0,2.8h3.255v3.255a1.4,1.4,0,0,0,2.8,0V63.76h3.255a1.4,1.4,0,1,0-.045-2.8Z" transform="translate(-7.889 -29.475)" fill="rgba(152,103,109,0.1)" stroke="#98676d" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
